@@ -1,12 +1,13 @@
-# Part One - Prelude
+# Parte Uno - Preludio
 
-So you want to get started writing CosmWasm smart contracts? Where do I start? What do I need? Can I even do this? Well, firstly I’m going to go through some base knowledge which I expect you to have. Don’t worry if you don’t have these yet, these will be accompanied by links to get you in the right direction!
+Entonces, ¿Quieres aprender a escribir tu primer Smart Contract en CosmWasm? Te preguntas ¿Dónde Comienzo?, ¿Qué necesito?, ¿Puedo hacerlo? Primero te explicaré un conocimiento básico que se espera que tengas. No te preocupes si no sabes nada de esto todavía, el tutorial estará acompañado de links para acompañarte en la mejor dirección.
 
-1. Ability to write rust code OR previous experience in learning programming languages on the fly
-   - I recommend either having experience learning languages fast. Or if picking up rust for the first time running through some tutorials
-   - Here are some Rust resources to get you started
-     - [Traversy Media Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw)
-     - [Rust Playlist](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
+1. Habilidad para aprender Rust o previa experiencia en aprendizaje de lenguajes de programacióne en la marcha:
+   - Recomiendo tener experiencia en aprender lenguajes de programación de forma rápida. O si ves que tienes alguna dificultad te recomiendo ir por algunos tutoriales.
+   - Aquí hay algunos recursos de Rust que te ayudan a empezar:
+   - [Aprende Rust desde Cero - Midudev] (https://www.youtube.com/watch?v=WMeM7-JswKQ)
+   - [Curso de Rust desde Cero - Playlist] (https://youtu.be/5AdczJB92Os)
+
 1. Basic Git and VCS understanding. I post this series part-by-part on GitHub and recommend you use GitHub too!
    - Resources:
      - [Traversy Media Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
