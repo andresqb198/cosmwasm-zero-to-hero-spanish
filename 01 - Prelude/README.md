@@ -5,8 +5,8 @@ Entonces, ¿Quieres aprender a escribir tu primer Smart Contract en CosmWasm? Te
 1. Habilidad para aprender Rust o previa experiencia en aprendizaje de lenguajes de programacióne en la marcha:
    - Recomiendo tener experiencia en aprender lenguajes de programación de forma rápida. O si ves que tienes alguna dificultad te recomiendo ir por algunos tutoriales.
    - Aquí hay algunos recursos de Rust que te ayudan a empezar:
-   - [Aprende Rust desde Cero - Midudev] (https://www.youtube.com/watch?v=WMeM7-JswKQ)
-   - [Curso de Rust desde Cero - Playlist] (https://youtu.be/5AdczJB92Os)
+      - [Aprende Rust desde Cero - Midudev] (https://www.youtube.com/watch?v=WMeM7-JswKQ)
+      - [Curso de Rust desde Cero - Playlist] (https://youtu.be/5AdczJB92Os)
 
 1. Basic Git and VCS understanding. I post this series part-by-part on GitHub and recommend you use GitHub too!
    - Resources:
